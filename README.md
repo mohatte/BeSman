@@ -25,7 +25,7 @@ See documentation on the [BeSMAN! website](https://besman.github.io).
 
 Open your favourite terminal and enter the following:
 
-    $ curl -L https://raw.githubusercontent.com/mohatte/BeSman/dist/dist/get.besman.io | bash
+    $ curl -L https://raw.githubusercontent.com/mohatte/BeSman/BeSman/master/dist/get.besman.io | bash
 
 If the environment needs tweaking for BeSMAN to be installed, the installer will prompt you accordingly and ask you to restart.
 
