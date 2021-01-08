@@ -4,7 +4,7 @@
 BeSMan gives you a *bes* command on your shell , you can use it to automate the setup of various development environments required for BeS projects  
 
 
-# BeSMAN! CLI
+# BeSman! CLI
 ### The Command Line Interface<!--Text-->
 
 <!--Text-->
